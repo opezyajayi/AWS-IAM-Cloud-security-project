@@ -1,1 +1,2 @@
-This project was completed on cloud security controls in Amazon Web Services (AWS), focusing on Identity and Access Management (IAM). The goal was to create a least‑privilege policy
+This project was completed on cloud security controls in Amazon Web Services (AWS), focusing on Identity and Access Management (IAM). The goal was to create a least‑privilege policy, demonstrates secure cloud IAM, encryption, and continuous monitoring.
+Under the NIST CSF functions [Protect (PR), Detect (DE)}  & the ISO 27001 Annex A controls [A.5.17 Authentication Information, A.8.16 Monitoring Activities]
